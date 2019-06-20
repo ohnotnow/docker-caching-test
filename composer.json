@@ -1,0 +1,8 @@
+{
+    "name": "test/docker-cache",
+    "description": "blah",
+    "type": "library",
+    "require": {
+        "psr/log": "^1.1"
+    }
+}
